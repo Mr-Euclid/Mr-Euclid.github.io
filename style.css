@@ -11,6 +11,9 @@ p{
 il{
   text-align: center;
 }
+.container{
+  display: flex;
+
 ul{
   text-align: center;
 }
