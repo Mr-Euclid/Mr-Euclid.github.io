@@ -4,6 +4,7 @@ body{
 }
 h1{
   text-align: center;
+   text-color:white;
 }
 h4{
   text-align: center;
@@ -11,13 +12,15 @@ h4{
 }
 p{
   text-align: center;
-   style="color: white;"
+    text-color:white;
 }
 il{
   text-align: center;
+   text-color:white;
 
 ul{
   text-align: center;
+   text-color:white;
 body {
   font-family: sans-serif;
   margin: 0;
