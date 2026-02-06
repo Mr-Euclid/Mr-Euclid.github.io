@@ -12,17 +12,29 @@ p{
 }
 il{
   text-align: center;
-}
-.container{
-  display: flex;
 
 ul{
   text-align: center;
+body {
+  font-family: sans-serif;
+  margin: 0;
 }
-.box{
-width: 15px;
-height: 15px;
- }   
-  #box1{
-   background-color:red
- } 
+header {
+  background: purple;
+  height: 100px;
+}
+h1 {
+  text-align: center;
+  color: white;
+  line-height: 100px;
+  margin: 0;
+}
+section {
+  zoom: 0.8;
+}
+article {
+  padding: 10px;
+  margin: 10px;
+  background: aqua;
+}
+/* Add your flexbox CSS below here */
