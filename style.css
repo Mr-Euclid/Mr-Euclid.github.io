@@ -23,16 +23,6 @@ ul{
 width: 15px;
 height: 15px;
  }   
-   
-
-.container {
-  display: flex;
-  background-color: DodgerBlue;
-}
-
-.container{
-  background-color: red;
-  margin: 10px;
-  padding: 20px;
-  font-size: 24px;
-}
+  #box1{
+   background-color:red
+ } 
