@@ -14,3 +14,23 @@ il{
 ul{
   text-align: center;
 }
+box{
+width: 10px;
+height: 10px;
+text-align: center;
+border-radius: 15px;
+ }   
+   
+
+#box1{
+   background-color: color-mix(in xyz-d50, color percentage, color percentage);
+}
+#box2{
+   background-color: color(from color srgb r g b);
+}
+ #box3{
+   background-color: coral;
+ } 
+#box4{
+   background-color: rgb(187, 224, 20);
+}
