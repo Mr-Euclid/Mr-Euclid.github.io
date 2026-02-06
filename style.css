@@ -1,4 +1,6 @@
-
+body{
+  margin: 70px;
+}
 h1{
   text-align: center;
 }
@@ -23,15 +25,14 @@ height: 15px;
  }   
    
 
-#box1{
-  background-color:red;
+.container {
+  display: flex;
+  background-color: DodgerBlue;
 }
-#box2{
-   background-color: color(from color srgb r g b);
-}
- #box3{
-   background-color: coral;
- } 
-#box4{
-   background-color: rgb(187, 224, 20);
+
+.container div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
 }
