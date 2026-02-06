@@ -23,7 +23,7 @@ border-radius: 15px;
    
 
 #box1{
-   background-color: color-mix(in xyz-d50, color percentage, color percentage);
+  background-color: rgb(187, 224, 20);
 }
 #box2{
    background-color: color(from color srgb r g b);
