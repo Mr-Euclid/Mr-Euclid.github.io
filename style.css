@@ -2,7 +2,7 @@ body{
   margin: 70px;
   background-color: black;
   background-image:url("133915310529397434.jpg");
-  background-size("100px 100p");
+  background-size: 100px 100px;
 }
 h1{
   text-align: center;
