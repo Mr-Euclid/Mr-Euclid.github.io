@@ -1,4 +1,6 @@
 Body{
 background-image:url("milky-way-full-stars-space.jpg");
-text-color: white;
+}
+p{
+  text-color: white;
 }
