@@ -7,8 +7,8 @@ color: white;
 }
 div{
 background-image:url("neptune.jpg");
-  background-repeat: no-repeat
+  background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
-  background-attachment: fixed
+  background-attachment: fixed;
 }
