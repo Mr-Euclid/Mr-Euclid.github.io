@@ -7,4 +7,5 @@ color: white;
 }
 div{
 background-image:url("neptune.jpg");
+  background-size: cover;
 }
