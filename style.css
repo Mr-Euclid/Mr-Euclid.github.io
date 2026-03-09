@@ -10,19 +10,19 @@ h1{
 }
 h4{
   text-align: center;
+   color: white;
  
 }
 p{
   text-align: center;
-    text-color:white;
+     color: white;
 }
 il{
   text-align: center;
-   text-color: white;
-
+   color: white;
 ul{
   text-align: center;
-   text-color: white;
+   color: white;
 body {
   font-family: sans-serif;
   margin: 0;
