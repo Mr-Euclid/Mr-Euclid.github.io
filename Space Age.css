@@ -41,7 +41,7 @@ background-image:url("neptune.jpg");
   margin-right: 200px;
   background-attachment: fixed
    }
-#inline-block-element {
+#af {
 	display: inline-block; /* this is *not* set automatically, divs are block by default */
 	background-color: red;
 }
