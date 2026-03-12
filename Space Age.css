@@ -61,6 +61,11 @@ width: 200px;
 	position: fixed;
 	right: 100px;
   top: 150px;
+	background-image:url("neptune.jpg");
+  background-repeat: no-repeat;
+	color: white;
+	margin-right: 200px;
+	 background-size: cover;
 }
 #ai{
 	width: 50px;
