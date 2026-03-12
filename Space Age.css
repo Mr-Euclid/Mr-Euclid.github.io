@@ -42,6 +42,8 @@ background-image:url("neptune.jpg");
   background-attachment: fixed
    }
 #af {
-	display: inline-block; /* this is *not* set automatically, divs are block by default */
+	width: 100px;
+	height: 100px;
 	background-color: red;
+	position: absolute;
 }
