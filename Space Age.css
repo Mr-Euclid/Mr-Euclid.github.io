@@ -75,6 +75,8 @@ width: 200px;
 	left: 210px;
   top: 100px;
 	color: white;
+	background-image:url("lunar_eclipse.jpg");
+	background-size: cover;
 }
 #aj{
 width: 50px;
@@ -84,4 +86,6 @@ width: 50px;
 	left: 210px;
   top: 100px;
 	color: white;
+	background-image:url("titan.jpg");
+	background-size: cover;
 }
