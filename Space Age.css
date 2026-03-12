@@ -58,8 +58,18 @@ width: 200px;
   top: 150px;
 }
 #ai{
-
+	width: 25px;
+	height: 25px;
+	background-color: red;
+	position: absolute;
+	right: 100px;
+  top: 150px;
 }
 #aj{
-
+width: 25px;
+	height: 25px;
+	background-color: red;
+	position: absolute;
+	right: 100px;
+  top: 150px;
 }
