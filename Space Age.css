@@ -46,4 +46,6 @@ background-image:url("neptune.jpg");
 	height: 100px;
 	background-color: red;
 	position: absolute;
+	 left: 100px;
+  top: 150px;
 }
