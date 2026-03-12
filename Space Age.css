@@ -48,6 +48,8 @@ background-image:url("neptune.jpg");
 	position: fixed;
 	 left: 100px;
   top: 150px;
+	background-image:url("neptune.jpg");
+  background-repeat: no-repeat;
 }
 #ag{
 width: 200px;
