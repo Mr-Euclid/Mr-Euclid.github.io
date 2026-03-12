@@ -28,7 +28,8 @@ background-image:url("neptune.jpg");
   background-attachment: fixed
 }
 #ad{
-  width: 100px;
+ display: block;
+	width: 100px;
 	height: 100px;
 	background-color:red;
 	position: absolute;
