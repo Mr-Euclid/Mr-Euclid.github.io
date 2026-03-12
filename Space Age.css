@@ -27,10 +27,16 @@ background-image:url("neptune.jpg");
   margin-right: 200px;
   background-attachment: fixed
 }
-#ad{
+#ad {
  display: block;
 	width: 100px;
 	height: 100px;
 	background-color:red;
 	position: absolute;
 }
+#ae{background-image:url("venus.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  margin-right: 200px;
+  background-attachment: fixed
+   }
