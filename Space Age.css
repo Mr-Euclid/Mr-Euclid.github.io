@@ -45,7 +45,21 @@ background-image:url("neptune.jpg");
 	width: 100px;
 	height: 100px;
 	background-color: red;
-	position: absolute;
+	position: fixed;
 	 left: 100px;
   top: 150px;
+}
+#ag{
+width: 100px;
+	height: 100px;
+	background-color: red;
+	position: fixed;
+	 left: 25px;
+  top: 50px;
+}
+#ai{
+
+}
+#aj{
+
 }
