@@ -34,7 +34,8 @@ background-image:url("neptune.jpg");
 	background-color:red;
 	position: absolute;
 }
-#ae{background-image:url("venus.jpg");
+#ae{
+	background-image:url("venus.jpg");
   background-repeat: no-repeat;
   background-position: center top;
   margin-right: 200px;
