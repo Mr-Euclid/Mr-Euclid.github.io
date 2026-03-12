@@ -42,16 +42,16 @@ background-image:url("neptune.jpg");
   background-attachment: fixed
    }
 #af {
-	width: 100px;
-	height: 100px;
+	width: 200px;
+	height: 200px;
 	background-color: red;
 	position: fixed;
 	 left: 100px;
   top: 150px;
 }
 #ag{
-width: 100px;
-	height: 100px;
+width: 200px;
+	height: 200px;
 	background-color: red;
 	position: fixed;
 	right: 100px;
