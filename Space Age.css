@@ -54,7 +54,7 @@ width: 100px;
 	height: 100px;
 	background-color: red;
 	position: fixed;
-	 left: 25px;
+	right: 25px;
   top: 50px;
 }
 #ai{
