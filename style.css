@@ -51,9 +51,9 @@ article {
     }
 .grid-container {
 	display: grid;
-	grid-template-areas: "b b a" 
-                       "b b c"
-                       "c c c";
+	grid-template-areas: "a b c
+	                     "a b c"
+                         "a b c";					
 	height: 300px;
 	#a{
 background-color: red;
