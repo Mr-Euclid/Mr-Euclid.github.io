@@ -7,10 +7,20 @@
 </head>
 <Body>
 
+style>
+.grid-container {
+	display: grid;
+	grid-template-areas: "b b a" /* defines 3 rows and 3 columns with nicely labeled cells */
+                             "b b c"
+                             "d d d";
+	height: 300px;
+}
+</style>
 <div class="grid-container">
-  <span style="grid-area: a;">a</span>
- <span style="grid-area: b;">a</span>
-   <span style="grid-area: c;">a</span>
+	<span style="grid-area: a; background-color: purple;">Area A</span>
+	<span style="grid-area: b; background-color: green;">Area B</span>
+	<span style="grid-area: c; background-color: orange;">Area C</span>
+	<span style="grid-area: d; background-color: red;">Area D</span>
 </div>
 <p><a href="https://mr-euclid.github.io">Back to homepage</a></p>
   </Body>
