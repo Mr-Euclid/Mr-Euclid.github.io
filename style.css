@@ -57,8 +57,22 @@ article {
 	display: grid;
 	grid-template-areas: "a b c
 	                     "a b c"
-                         "a b c";					
+                         "a b c";	
+
 	height: 300px;
 	#a{
 background-color: red;
 	}
+	#af {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	position: fixed;
+	 left: 100px;
+  top: 150px;
+	background-image:url("neptune.jpg");
+  background-repeat: no-repeat;
+	color: white;
+	margin-right: 200px;
+	 background-size: cover;
+}
