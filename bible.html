@@ -9,7 +9,20 @@
 
 
 
-
+<style>
+.grid-container {
+	display: grid;
+	grid-template-areas: "a a a"
+                       "b b b"
+                       "c c c";
+	height: 300px;
+}
+</style>
+<div class="grid-container">
+	<span style="grid-area: a; background-color: white;">Area A</span>
+	<span style="grid-area: b; background-color: white;">Area B</span>
+	<span style="grid-area: c; background-color: white;">Area C</span>
+</div>
 
 
 
