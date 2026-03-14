@@ -76,3 +76,6 @@ background-color: red;
 	margin-right: 200px;
 	 background-size: cover;
 }
+	> *{
+ border: 1px solid green;
+	}
