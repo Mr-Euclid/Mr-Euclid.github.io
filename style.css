@@ -92,6 +92,7 @@ width: 300px;
 	color: white;
 	 background-size: cover;
 	justify-content: center;
+	display: flex;
 }
 	  #ai{
 width: 200px;
@@ -105,6 +106,7 @@ width: 200px;
 	color: white;
 	 background-size: cover;
 		  justify-content: center;
+		  display: flex;
 	  }
 	  #aj{
 width: 300px;
@@ -118,5 +120,5 @@ width: 300px;
 	color: white;
 	 background-size: cover;
 		  justify-content: center;
-		  text-align: center;
+		  display: flex;
 	  }
