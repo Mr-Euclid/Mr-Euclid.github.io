@@ -80,7 +80,7 @@ background-color: red;
  border: 1px solid gray;
 	}
 }
-#ah{
+ah{
 width: 300px;
 	height: 200px;
 	background-color: red;
@@ -94,7 +94,7 @@ width: 300px;
 	justify-content: center;
 	display: flex;
 }
-	  #ai{
+	  ai{
 width: 200px;
 	height: 200px;
 	background-color: red;
@@ -108,17 +108,26 @@ width: 200px;
 		  justify-content: center;
 		  display: flex;
 	  }
-	  #aj{
+	  .box{
 width: 300px;
 	height: 200px;
 	background-color: red;
 	position: fixe;
 	righte: 100x;
   tope: 150p;
-	background-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
+	ebackground-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
   background-repeat: no-repeat;
 	color: white;
 	 background-size: cover;
 		  justify-content: center;
 		  display: flex;
+	  }
+	  #ah{
+background-image:url("Hans_Jordaens_(III)_-_Moses_parting_the_Red_Sea (1).jpg");
+	  }
+	  #ai{
+background-image:url("moses--the-parting-of-the-red-sea-5739.jpg");
+	  }
+	  #aj{
+background-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
 	  }
