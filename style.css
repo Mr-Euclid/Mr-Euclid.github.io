@@ -91,6 +91,7 @@ width: 200px;
   background-repeat: no-repeat;
 	color: white;
 	 background-size: cover;
+	justify-content: center;
 }
 	  #ai{
 width: 200px;
@@ -103,6 +104,7 @@ width: 200px;
   background-repeat: no-repeat;
 	color: white;
 	 background-size: cover;
+		  justify-content: center;
 	  }
 	  #aj{
 width: 200px;
@@ -115,4 +117,5 @@ width: 200px;
   background-repeat: no-repeat;
 	color: white;
 	 background-size: cover;
+		  justify-content: center;
 	  }
