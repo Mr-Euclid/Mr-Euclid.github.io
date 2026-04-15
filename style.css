@@ -144,4 +144,7 @@ background-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
 	border-radius: 3px;
 	color: #444;
 }
+	  code.hljs span {
+	font-family: monospace !important;
+}
 	  
