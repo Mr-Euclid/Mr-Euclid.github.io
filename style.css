@@ -171,6 +171,7 @@ content: "[measurement]";
   }
 	 span.measurement:hover{
 color: RED;
+		  Transition:width 2S ease 0S
 	 }
 
 	  
