@@ -137,14 +137,14 @@ background-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
  text-align: center;
 		  color: black;
 	  }
-	  code {
+	  ak {
 	font-family: monospace;
 	background-color: #f3f3f3;
 	padding: 2px;
 	border-radius: 3px;
 	color: #444;
 }
-	  code.hljs span {
+	  ak.hljs span {
 	font-family: monospace !important;
 }
 	  
