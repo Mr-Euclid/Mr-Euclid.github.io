@@ -145,5 +145,15 @@ background-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
 	color: grey;
 	font-family: monospace;
 }
+	  span.measurement{
+padding: 3px;
+	padding-right: 25px;
+	background-color: #CC8811;
+	font-weight: bold;
+	border-radius: 10px;
+	color: white;
+	display: inline-block;
+	font-size: 0.75em;
+	  }
 	 
 	  
