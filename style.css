@@ -162,6 +162,9 @@ content: "[measurement]";
 	font-size: 10px;
 	color: black;
 	vertical-align: top;
+
+	Transition-property :width;
+	transition-duration :2s;
   }
 	 span.measurement:hover{
 width:400px
