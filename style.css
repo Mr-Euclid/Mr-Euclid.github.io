@@ -154,11 +154,13 @@ padding: 3px;
 	color: white;
 	display: inline-block;
 	font-size: 0.75em;
-	content: "[goal]";
+	  }
+	 span.measurement::before {
+content: "[goal]";
 	font-family: monospace;
 	font-size: 10px;
 	color: black;
 	vertical-align: top;
-	  }
+  }
 	 
 	  
