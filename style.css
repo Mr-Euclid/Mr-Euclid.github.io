@@ -49,7 +49,6 @@ article {
   margin: 10px;
   background: aqua;
 }
-/* Add your flexbox CSS below here */
   h4{
     <ul style="color:white;">
     }
@@ -138,3 +137,11 @@ background-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
  text-align: center;
 		  color: black;
 	  }
+	  code {
+	font-family: monospace;
+	background-color: #f3f3f3;
+	padding: 2px;
+	border-radius: 3px;
+	color: #444;
+}
+	  
