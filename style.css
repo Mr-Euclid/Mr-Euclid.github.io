@@ -163,8 +163,8 @@ content: "[measurement]";
 	color: black;
 	vertical-align: top;
 
-	Transition-property :width;
-	transition-duration :2s;
+	Transition-property: width;
+	transition-duration: 2s;
   }
 	 span.measurement:hover{
 width:400px
