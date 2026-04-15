@@ -145,10 +145,7 @@ background-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
 	color: grey;
 	font-family: monospace;
 
-		  Transition-property: width;
-	transition-duration: 2s;
-	transition-timing-function: ease;
-	transition-delay: 0S;
+		  
 }
 	  span.measurement{
 padding: 3px;
@@ -160,10 +157,8 @@ padding: 3px;
 	display: inline-block;
 	font-size: 0.75em;
 	color: grey;
-	Transition-property: width;
-	transition-duration: 2s;
-	transition-timing-function: ease;
-	transition-delay: 0S;
+		  Transition:width 2S ease 0S
+	
 	  }
 	 span.measurement::before {
 content: "[measurement]";
