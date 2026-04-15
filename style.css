@@ -165,7 +165,7 @@ content: "[measurement]";
 
 	Transition-property: width;
 	transition-duration: 2s;
-	transition-timing-function: ease
+	transition-timing-function: ease;
 	transition-delay: 0S;	 
   }
 	 span.measurement:hover{
