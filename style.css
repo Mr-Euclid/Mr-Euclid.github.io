@@ -163,5 +163,9 @@ content: "[measurement]";
 	color: black;
 	vertical-align: top;
   }
-	 
+	 span.measurement:hover{
+width:400px
+	 }
+
+	  
 	  
