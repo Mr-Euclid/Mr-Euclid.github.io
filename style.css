@@ -144,6 +144,11 @@ background-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
 	border-radius: 3px;
 	color: grey;
 	font-family: monospace;
+
+		  Transition-property: width;
+	transition-duration: 2s;
+	transition-timing-function: ease;
+	transition-delay: 0S;
 }
 	  span.measurement{
 padding: 3px;
