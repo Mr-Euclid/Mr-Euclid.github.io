@@ -156,7 +156,7 @@ padding: 3px;
 	font-size: 0.75em;
 	  }
 	 span.measurement::before {
-content: "[goal]";
+content: "[measurement]";
 	font-family: monospace;
 	font-size: 10px;
 	color: black;
