@@ -192,7 +192,6 @@ width: 300px;
 }
 .code5:hover{
 	Transform: translate(50px 90px);
-background-color: black;
 	Transition: Transform 2500ms ease-in-out 0s,
 		background-color 2000ms ease 0s; 	
 }
