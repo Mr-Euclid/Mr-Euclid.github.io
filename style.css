@@ -154,3 +154,19 @@ width: 300px;
 	background-color: red;
 	 display: flex;
 			justify-content: center
+}
+.code2:hover{
+background-color: black;
+	Transition:background-color 1000ms ease 1000ms	
+}
+.code3 {
+width: 300px;
+	height: 200px;
+	background-color: red;
+	 display: flex;
+			justify-content: center
+}
+.code3:hover{
+background-color: black;
+	Transition:background-color 1000ms ease 1000ms	
+}
