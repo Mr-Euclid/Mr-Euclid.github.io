@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html><head>
+<title>grab central</title>
+<link rel="stylesheet" href="style.css" />
+
+</head>
+<Body>
+
+<style>
+.grid-container {
+	display: grid;
+	grid-template-areas: "d d e"
+                       "f g e"
+                       "f g g
+height: 100vh;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Body>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</html>
