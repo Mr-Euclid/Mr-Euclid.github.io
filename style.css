@@ -164,3 +164,9 @@ span.5:hover{
 width: 300px;
 		  Transition:width 1000ms ease 1000ms
 	 }
+
+
+#box2{
+width: 300px;
+	background: red;
+}
