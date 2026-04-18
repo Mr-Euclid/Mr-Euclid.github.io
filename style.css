@@ -48,10 +48,6 @@ article {
   padding: 10px;
   margin: 10px;
   background: aqua;
-}
-  h4{
-    <ul style="color:white;">
-    }
 
 
 	#af {
@@ -68,7 +64,7 @@ article {
 	 background-size: cover;
 }
 	> *{
- border: 1px solid gray;
+ border: 5px solid gray;
 	}
 }
 ah{
