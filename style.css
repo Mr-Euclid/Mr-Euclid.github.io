@@ -192,7 +192,7 @@ width: 300px;
 }
 .code5:hover{
 	Transform: skew(30deg,20deg);
-	Transition: Transform 2500ms ease-in-out 0s,
+	Transition: Transform 2500ms ease-in-out 50ms,
 		
 }
 .code6 {
@@ -204,6 +204,7 @@ width: 300px;
 }
 .code6:hover{
 background-color: green;
-	Transform: matrix(1.5, 3, 1, 6, 60, -80
-	Transition:background-color 1000ms ease 1000ms,	Transform 
+	Transform: matrix(1.5, 3, 1, 6, 60, -80);
+	Transition:background-color 1000ms ease 1000ms,
+		Transform 3s ease-in 50ms;
 }
