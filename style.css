@@ -156,8 +156,8 @@ width: 300px;
 			justify-content: center
 }
 .code2:hover{
-background-color: black;
-	Transition:background-color 1000ms ease 1000ms	
+width: 200px;
+	Transition:width 1000ms ease 1000ms	
 }
 .code3 {
 width: 300px;
