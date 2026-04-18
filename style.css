@@ -167,8 +167,8 @@ width: 300px;
 			justify-content: center
 }
 .code3:hover{
-Transform: scale(1.2, 0.7)
-	Transition:Transform 1.5s ease 0s	
+Transform: scale(1.2, 0.7);
+	Transition:Transform 1.5s ease;	
 }
 }
 .code4 {
@@ -182,7 +182,7 @@ width: 300px;
 }
 .code4:hover{
 Transform: rotate(500deg);
-	Transition:Transform rotate 1000ms ease 1000ms	
+	Transition:Transform 1000ms ease;	
 }
 .code5 {
 width: 300px;
