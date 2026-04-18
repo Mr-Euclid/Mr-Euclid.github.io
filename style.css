@@ -162,5 +162,7 @@ color: RED;
 		  Transition:color 1000ms ease 1000ms
 	 }
 
-	  
+	  .container2{
+ display: flex;
+	  }
 	  
