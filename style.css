@@ -164,21 +164,24 @@ span.5:hover{
 width: 300px;
 		  Transition:width 1000ms ease 1000ms
 	 }
+al{
 
+}
 
-.box2{
-width: 300px;
-	background: red;
-}
-#main {
-  width: 300px;
-  height: 300px;
-  border: 1px solid black;
-  display: flex;
-}
 #box3 {
  background-color: lightblue;
   color: black;
   padding: 40px;
   text-align: center;
 }
+.box2{
+width: 300px;
+	height: 200px;
+	background-color: red;
+	position: fixe;
+	righte: 100x;
+  tope: 150p;
+	ebackground-image:url("Jordaens_Crossing_of_the_Red_Sea.jpg");
+  background-repeat: no-repeat;
+	color: white;
+	 background-size: cover;
