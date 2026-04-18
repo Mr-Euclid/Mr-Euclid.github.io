@@ -167,9 +167,7 @@ width: 300px;
 			justify-content: center
 }
 .code3:hover{
-width: 130px;
-	height: 270px;
-	Transition:height 1000ms ease 1000ms	
+transition: margin 1s;
 		
 }
 .code4 {
