@@ -167,10 +167,9 @@ width: 300px;
 			justify-content: center
 }
 .code3:hover{
-transition: margin 1s;
-animation-timing-function: ease; 
-	width: 130px;
-	height: 90px;
+Transform: scale(1.2, 0.7)
+	Transition:Transform 1.5s ease 0s	
+}
 }
 .code4 {
 width: 300px;
@@ -178,6 +177,8 @@ width: 300px;
 	background-color: red;
 	 display: flex;
 			justify-content: center
+
+}
 }
 .code4:hover{
 Transform: rotate(500deg);
