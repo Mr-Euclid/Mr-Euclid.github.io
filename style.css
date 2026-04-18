@@ -169,8 +169,8 @@ width: 300px;
 .code3:hover{
 width: 130px;
 	height: 270px;
-	Transition:width 1000ms ease 1000ms	
-	Transition:height 1000ms ease 1000ms	
+	Transition:width height 1000ms ease 1000ms	
+		
 }
 .code4 {
 width: 300px;
