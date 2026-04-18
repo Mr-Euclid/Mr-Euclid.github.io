@@ -159,13 +159,8 @@ content: "[measurement]";
   }
 	 span.measurement:hover{
 color: red;
-		  Transition:color 1000ms ease 1000ms
+		  Transition:color 1000ms ease 1000ms	
+span.5:hover{
+width: 300px;
+		  Transition:width 1000ms ease 1000ms
 	 }
-
-	  .container2{
- display: flex;
-	  }
-	af{
-
-		color: yellow;
-	}
