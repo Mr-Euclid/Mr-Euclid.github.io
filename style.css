@@ -181,7 +181,7 @@ width: 300px;
 }
 }
 .code4:hover{
-Transform: rotate(500deg);
+Transform: rotate(380deg);
 	Transition:Transform 1000ms ease;	
 }
 .code5 {
@@ -193,7 +193,8 @@ width: 300px;
 }
 .code5:hover{
 background-color: black;
-	Transition:background-color 1000ms ease 1000ms	
+	Transform: translatex(50px)
+	Transition:background-color 2s ease,Transform 2500ms  ease-in-out 	
 }
 .code6 {
 width: 300px;
@@ -203,6 +204,7 @@ width: 300px;
 			justify-content: center
 }
 .code6:hover{
-background-color: black;
-	Transition:background-color 1000ms ease 1000ms	
+background-color: green;
+	Transform: matrix(1.5, 3, 1, 6, 60, -80
+	Transition:background-color 1000ms ease 1000ms,	Transform 
 }
