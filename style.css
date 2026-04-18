@@ -182,6 +182,7 @@ width: 300px;
 
 .code4:hover{
 	Transform: rotate(56deg);
+	Transition:Transform 1.5s ease;
 }
 .code5 {
 width: 300px;
@@ -192,7 +193,7 @@ width: 300px;
 }
 .code5:hover{
 	Transform: skew(30deg,20deg);
-	Transition: Transform 2500ms ease-in-out 50ms,
+	Transition: Transform 2500ms ease-in-out 50ms;
 		
 }
 .code6 {
