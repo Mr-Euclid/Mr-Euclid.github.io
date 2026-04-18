@@ -146,4 +146,5 @@ width: 300px;
 }
 .code:hover{
 background-color: black;
+	Transition:color 1000ms ease 1000ms	
 }
