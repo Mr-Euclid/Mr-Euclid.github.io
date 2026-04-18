@@ -167,8 +167,10 @@ width: 300px;
 			justify-content: center
 }
 .code3:hover{
-background-color: black;
-	Transition:background-color 1000ms ease 1000ms	
+width: 130px;
+	height: 270px;
+	Transition:width 1000ms ease 1000ms	
+	Transition:height 1000ms ease 1000ms	
 }
 .code4 {
 width: 300px;
