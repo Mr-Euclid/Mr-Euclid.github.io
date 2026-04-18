@@ -191,8 +191,8 @@ width: 300px;
 			justify-content: center
 }
 .code5:hover{
+	Transform: translate(50px 90px);
 background-color: black;
-	Transform: translate(50px 90px)
 	Transition:background-color 2000ms ease,Transform 2500ms ease-in-out; 	
 }
 .code6 {
