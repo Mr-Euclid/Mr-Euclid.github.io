@@ -1,12 +1,12 @@
 body{
   margin: 70px;
   background-color: black;
-  background-image:url("1343.jpg");
-  background-size: 100px 100px;
+	 font-family: sans-serif;
 }
 h1{
   text-align: center;
    color: white;
+	  line-height: 100px;
 }
 h4{
   text-align: center;
@@ -17,29 +17,9 @@ p{
   text-align: center;
      color: white;
 }
-il{
-list-style: none;
-  margin: 0;
-  padding: 0;
-}
-ul{
-list-style: none;
-  margin: 0;
-  padding: 0;
-}
-body {
-  font-family: sans-serif;
-  margin: 0;
-}
 header {
   background: purple;
   height: 100px;
-}
-h1 {
-  text-align: center;
-  color: white;
-  line-height: 100px;
-  margin: 0;
 }
 section {
   zoom: 0.8;
@@ -48,7 +28,7 @@ article {
   padding: 10px;
   margin: 10px;
   background: aqua;
-
+}
 
 	#af {
 	width: 200px;
@@ -64,9 +44,8 @@ article {
 	 background-size: cover;
 }
 	> *{
- border: 2px;
+ border: 2px solid gray;
 	}
-}solid gray;
 ah{
 width: 300px;
 	height: 200px;
@@ -146,34 +125,19 @@ padding: 3px;
 	font-size: 0.75em;
 	color: grey;
 		  Transition:width 2S ease 0S
-	
 	  }
 	 span.measurement::before {
 content: "[measurement]";
 	font-family: monospace;
 	font-size: 10px;
 	color: black;
-	vertical-align: top;
-
-		 
+	vertical-align: top;	 
   }
 	 span.measurement:hover{
 color: red;
 		  Transition:color 1000ms ease 1000ms	
-span.5:hover{
-width: 300px;
-		  Transition:width 1000ms ease 1000ms
 	 }
-al{
 
-}
-
-#box3 {
- background-color: lightblue;
-  color: black;
-  padding: 40px;
-  text-align: center;
-}
 .code {
 width: 300px;
 	height: 200px;
@@ -185,4 +149,6 @@ width: 300px;
   background-repeat: no-repeat;
 	color: white;
 	 background-size: cover;
+	 display: flex;
+			justify-content: center
 }
