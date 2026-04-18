@@ -151,3 +151,6 @@ width: 300px;
 	 display: flex;
 			justify-content: center
 }
+.code:hover{
+color: black;
+}
