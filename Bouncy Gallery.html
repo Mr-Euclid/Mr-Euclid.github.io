@@ -10,11 +10,9 @@
 <style>
 .grid-container {
 	display: grid;
-	grid-template-areas: "a a b"
-                       	 "c c b"
-                       	 "c c d"
-						 "e e e"
-						 "f f f";
+	grid-template-areas: "a b c"
+                       	 "a b c"
+						 "a b c";
 height: 100vh;
 }
 
@@ -23,18 +21,17 @@ height: 100vh;
 
 </style>
 <div class="grid-container">
-	<span class="5" style="grid-area: a; background-color: white;">eee
-	</span>
+
 	
-	<span style="grid-area: b; background-color: white;"><div id="main"></div></span>
 	
-	<span style="grid-area: c; background-color: white;">Area C</span>
 	
+	<div style="grid-area: a;">Area C</div>
+	
+	<span style="grid-area: b; background-color: white;">Area d</span>
+
+	<span style="grid-area: c; background-color: white;">Area d</span>
+
 	<span style="grid-area: d; background-color: white;">Area d</span>
-
-	<span style="grid-area: e; background-color: white;">Area d</span>
-
-	<span style="grid-area: f; background-color: white;">Area d</span>
 </div>
 <p><a href="https://mr-euclid.github.io">Back to homepage</a></p>
   
