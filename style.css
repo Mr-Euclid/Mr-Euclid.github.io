@@ -52,16 +52,8 @@ article {
   h4{
     <ul style="color:white;">
     }
-.grid-container {
-	display: grid;
-	grid-template-areas: "a b c
-	                     "a b c"
-                         "a b c";	
 
-	height: 300px;
-	#a{
-background-color: red;
-	}
+
 	#af {
 	width: 200px;
 	height: 200px;
